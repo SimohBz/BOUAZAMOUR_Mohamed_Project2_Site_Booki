@@ -1,0 +1,95 @@
+/* responsive tablettes */
+
+@media (max-width: 992px){
+
+html,body{
+    width:100%;
+    overflow-x:hidden;
+    }
+
+/*Filtres*/
+
+.filtres_barre{
+    gap: 5px;
+    font-size: small;
+    }
+
+.filtres{
+    font-size: 15px;
+    }
+
+.groupe_4filtres{
+    justify-content: center;
+    width: 100%;
+    white-space: nowrap;
+    gap: 10px;
+    }
+
+/*Cartes*/ 
+.blocs_logements {
+    flex-direction: column;
+    gap: 40px;
+    }
+
+.hebergements{
+    min-width: 100%;
+    }
+
+.populaires{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-content: center;
+    min-width: 100%;
+    height: 300px;
+    }   
+
+.populaires_proposees{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 30px;
+    gap: 20px;
+    }
+
+.populaires h2{
+    justify-content: space-between;
+    margin: 35px;
+    margin-bottom: 0px;
+    }
+
+.cartes_populaires{
+    height: 155px;
+    min-width: 32%;
+    font-size: small;
+    } 
+
+.cartes_populaires img{
+    height: 96%;
+    width: 45%;
+    }
+
+.cartes_populaires .etoiles{
+    padding-top: 25px;
+        }
+  
+/*Activites*/
+.activites_proposees{
+    gap: 40px;
+    }
+    
+.cartes_activitees{
+    height: 267px;
+    width: 100%;
+    }
+    
+.cartes_activitees img{
+    height: 205px;
+    }
+
+.activites h3{
+    margin-bottom: 2px;
+    font-size: medium;
+    }
+}
+
+
