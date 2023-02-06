@@ -1,2 +1,2 @@
 # OpenclassroomsProject-Booki
-first-commit: fin de booki front-end desktop firt and responisve tablette and mobile
+first-commit: site booki front-end avec desktop first et responisve pour tablette et mobile
