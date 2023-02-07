@@ -38,6 +38,7 @@ nav{
 
 .link_nav:hover{
     border-top: #0065FC 3px solid;
+    color: #0065FC;
     }
 
 .links_2nav{
@@ -109,7 +110,7 @@ nav{
     display: flex;
     flex-basis: 100%;
     gap: 30px;
-}
+    }
 
 .filtres_barre .fa-solid{
     color: #0065FC;
@@ -224,7 +225,7 @@ nav{
 
 .cartes_populaires img{
     height: 138px;
-    width: 45%;
+    width: 40%;
     margin: 3px;
     border-radius:20px 0px 0px 20px; 
     object-fit: cover;
@@ -249,10 +250,12 @@ nav{
 .info_carte_heb h3, p {
     margin: 1px;
     margin-left: 10px;
+    font-size: small;
     }
 
 .info_carte_pop h3, P{
     margin-left: 10px;
+    font-size: small;
     }   
 
 .hebergements h2{
@@ -282,7 +285,7 @@ nav{
 .cartes_populaires .etoiles{
     display: flex;
     margin-left: 10px;
-    padding-top: 20px;
+    padding-top: 45px;
     }
 
 .fa-solid.fa-star.blue {

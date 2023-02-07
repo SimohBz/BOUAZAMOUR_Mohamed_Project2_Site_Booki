@@ -9,14 +9,13 @@ html,body{
     
 /* nav_barre */
 #logo_booki{
-    height: 25px;
+    height: 23px;
     width: 70px;
     margin: auto;
     margin-bottom: 25px;
     }
 
 nav{
-    display: flex;
     flex-direction: column;
     }
 
@@ -24,11 +23,13 @@ nav{
     font-size: larger;
     width: 50%;
     text-align: center;
-    border-bottom: 5px solid #F2F2F2;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-bottom: 3px solid #F2F2F2;
     }
 
 .link_nav:hover{
-    border-bottom:  5px solid #0065FC;
+    border-bottom:  3px solid #0065FC;
     border-top: transparent;
     }
 
