@@ -45,6 +45,7 @@ nav{
     display: flex;
     align-items: center;
     }
+    
 
 /* section_recherches */
 .barre_recherche{
@@ -202,7 +203,7 @@ nav{
     width: 30%;
     border-radius: 20px;
     background-color: white;
-    box-shadow:0 0 2px black;
+    box-shadow:0 0 5px gray;
     }
 
 .cartes_populaires{
@@ -210,7 +211,7 @@ nav{
     width: 85%;
     border-radius: 20px;
     background-color: white;
-    box-shadow:0 0 2px black;
+    box-shadow:0 0 5px gray;
     display: flex;
     } 
 
@@ -317,7 +318,7 @@ nav{
     height: 445px;
     width: 23%;
     border-radius: 20px;
-    box-shadow:0 0 2px black;
+    box-shadow:0 0 5px gray;
     }
 
 .cartes_activitees img{
