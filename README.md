@@ -1,2 +1,2 @@
 # OpenclassroomsProject-Booki
-first-commit: site booki front-end avec desktop first et responisve pour tablette et mobile
+6th-commit: modifications main: h1 et p dans css

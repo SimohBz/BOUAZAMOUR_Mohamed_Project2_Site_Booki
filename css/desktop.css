@@ -46,6 +46,15 @@ nav{
     align-items: center;
     }
     
+/* main_titres */
+
+main h1{
+    font-size: x-large;
+}
+
+main .complement_titre{
+    font-size: larger;
+}
 
 /* section_recherches */
 .barre_recherche{
